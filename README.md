@@ -10,6 +10,7 @@ __Разрабатывается система автоматизированн
 > [!NOTE]
 > Диаграмма классов `models`:
 
-![Результат выполнения](Task1_structure.svg)
+![Результат выполнения](![absract](https://github.com/user-attachments/assets/d114bf3e-ea4a-4541-83cb-be3ec06ccc1d)
+)
 
 
